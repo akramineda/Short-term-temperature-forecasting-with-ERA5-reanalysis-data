@@ -20,7 +20,7 @@ The following libraries should be installed before the execution of the codes.
 
 
 ### Data
-The data source in this work is [ERA5 Reanalysis Data](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form) from ECMWF. We are releasing the processed data that we used in this work. You may find the processed data in [data folder] (data/mean_T_hourly.csv) in repository.
+The data source in this work is [ERA5 Reanalysis Data](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form) from ECMWF. We are releasing the processed data that we used in this work. You may find the processed data in data folder in repository.
 
 ### Scripts
 - dl_ERA5_hourly_temperature.py: Run this code to download the hourly temperature data for Fars province from 2015-Jan to 2020-Nov.
