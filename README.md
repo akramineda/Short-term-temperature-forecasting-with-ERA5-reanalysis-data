@@ -1,7 +1,7 @@
-# Short-term-temperature-forecasting-with-ERA5-reanalysis-data
+# Short-term-temperature-forecasting-using-reanalysis-dataset
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> N. Akrami, K. Ziarati, S. Dev, Short-term Temperature Forecastingfrom ERA5 Reanalysis, under review
+> N. Akrami, S. Dev, Short-term Temperature Forecasting using Reanalysis dataset, under review
 
 
 ## Code Organization
