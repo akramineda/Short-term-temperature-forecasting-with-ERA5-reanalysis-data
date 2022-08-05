@@ -1,7 +1,7 @@
-# Short-term-temperature-forecasting-using-reanalysis-dataset
+# Spatial-Temporal-TES
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> N. Akrami, S. Dev, Short-term Temperature Forecasting using Reanalysis dataset, under review
+> N. Akrami, P. Dey, S. Dev, Spatial-Temporal-TES: Reanalysis Dataset based Short-Term Temperature Forecasting System, under review
 
 
 ## Code Organization
